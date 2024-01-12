@@ -8,6 +8,6 @@
   - npm run start
   
   ## Feedback 🔥  
-  Your feedback is valuable! If you have any suggestions, questions, or improvements, feel free to reach out to us at your-email@example.com. We appreciate your contribution to making this   project even better.
+  Your feedback is valuable! If you have any suggestions, questions, or improvements, feel free to reach out to us at shaheemnaseeb@gmail.com. We appreciate your contribution to making this   project even better.
 
   
